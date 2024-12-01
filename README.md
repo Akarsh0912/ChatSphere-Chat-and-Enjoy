@@ -12,7 +12,6 @@ Welcome to ChatSphere, a modern chat application designed for seamless and secur
 - **Secure Communication**: End-to-end encryption for private conversations.
 - **Media Sharing**: Send images, videos, and documents effortlessly.
 - **Customizable UI**: Tailored themes and layouts for a personalized experience.
-- **Multi-Platform Support**: Access ChatSphere on web and mobile devices.
 
 ---
 
